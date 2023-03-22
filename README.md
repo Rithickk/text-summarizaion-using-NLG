@@ -1,4 +1,4 @@
-##Abstractive Text Summaraization using NLG (Natural Language Generation)
+## Abstractive Text Summaraization using NLG (Natural Language Generation)
 
 We come across several different types of documents for various purposes.
 Creating a summary from a given content is a process that everyone participates
